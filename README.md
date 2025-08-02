@@ -15,7 +15,7 @@ Transparent test mode for internal redirect handling
 markdown
 
 url-shortener/
-├── app/
+|__ app/
 │   ├── __init__.py
 │   └── main.py           ← Flask app and routing logic
 ├── services/
